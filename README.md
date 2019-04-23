@@ -1,5 +1,5 @@
 # Windows Product Key Finder
-![Screenshot](https://github.com/andibde/Windows-Product-Key-Finder/image.jpg)
+![Screenshot](https://github.com/andibde/Windows-Product-Key-Finder/blob/master/image.jpg)
 
 VBS Script to get the Windows(R) 7 Product Key from a PC's registry.
 
